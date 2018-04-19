@@ -1,0 +1,3 @@
+server:
+    contextPath: /myapi
+    port: 3000
